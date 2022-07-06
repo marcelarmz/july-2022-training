@@ -1,0 +1,21 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+}
+
+header {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+table {
+  margin-top: 8px;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  border-bottom: 1px solid;
+}
